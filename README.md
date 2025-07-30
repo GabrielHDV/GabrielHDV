@@ -26,24 +26,24 @@ Desenvolvedor focado em back-end, com sólida base em Python, arquitetura de API
 
 ## 🧠 Interesses Técnicos
 
-- Desenvolvimento de APIs RESTful escaláveis
-- Integração de modelos de Machine Learning com back-ends Python
-- Engenharia de dados aplicada a sistemas inteligentes
-- Arquitetura de microsserviços e automação backend
-- Otimização e performance de pipelines em ML
+- Desenvolvimento de APIs RESTful escaláveis  
+- Integração de modelos de Machine Learning com back-ends Python  
+- Engenharia de dados aplicada a sistemas inteligentes  
+- Arquitetura de microsserviços e automação backend  
+- Otimização e performance de pipelines em ML  
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielHDV&show_icons=true&theme=onedark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHDV&layout=compact&theme=onedark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielHDV&show_icons=true&theme=onedark&cache_seconds=3600" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHDV&layout=compact&theme=onedark&cache_seconds=3600" />
 </div>
 
 ---
 
 ## 📫 Contato
 
-- Email: [gabrielsantoshenrique429@gmail.com](mailto:gabrielsantoshenrique429@gmail.com)
+- Email: [gabrielsantoshenrique429@gmail.com](mailto:gabrielsantoshenrique429@gmail.com)  
 - LinkedIn: [linkedin.com/in/gabrielbackdev](https://www.linkedin.com/in/gabrielbackdev)
