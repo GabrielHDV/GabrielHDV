@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Inglês-C1-4CAF50?style=flat" />
-  <img src="https://img.shields.io/badge/Localização-Lavras,_MG-orange?style=flat" />
 </p>
 
 ---
@@ -102,8 +101,8 @@ Manutenção de módulos SAP, digitalização documental, suporte operacional e 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielHDV&show_icons=true&theme=onedark&cache_seconds=3600" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHDV&layout=compact&theme=onedark&cache_seconds=3600" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielHDV&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHDV&layout=compact&theme=onedark&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -111,7 +110,6 @@ Manutenção de módulos SAP, digitalização documental, suporte operacional e 
 ## 🎓 Formação
 
 **Bacharelado em Sistemas de Informação** — UFLA *(Ago 2023 – Ago 2027)*
-Aprendizado Industrial em Administração e Logística — SENAI *(2021–2023)*
 
 ---
 
